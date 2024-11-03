@@ -1,0 +1,1 @@
+{"novo": {"senha": "123", "endereco": "rua conde"}, "novo usuario": {"senha": "123", "endereco": "avenida sertorio"}}
